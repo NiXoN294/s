@@ -1,0 +1,224 @@
+Diablos.TS.Languages.AvailableLanguages["russian"] = {
+ 
+    -- Global data
+    lbs = "фунты",
+    kg = "кг",
+    yes = "ДА",
+    no = "НЕТ",
+    andStr = "и",
+    active = "АКТИВНЫЙ",
+    training = "ТРЕНИРОВКА",
+    beginning = "Начало:",
+    ending = "Конец:",
+    leaveTraining = "Покинуть тренировку:",
+    second = "секунда",
+    seconds = "секунд",
+    minute = "минута",
+    minutes = "минут",
+    hour = "час",
+    hours = "часов",
+    day = "день",
+    days = "дней",
+    week = "неделя",
+    weeks = "недель",
+    month = "месяц",
+    months = "месяцев",
+    year = "год",
+    years = "год",
+    key = "ключ",
+    keys = "ключей",
+    free = "БЕСПЛАТНО",
+ 
+    -- Home tips
+    home = "Домой",
+    trainingStatistics = "СТАТИСТИКА ТРЕНИРОВКИ",
+    levelProgression = "Прогресс уровня",
+    captionFine = "Разрыв мыщц",
+    captionShouldTrain = "Должен тренироваться",
+    captionMuscleLoss = "Потеря мыщц",
+    staminaBenefit = "Выносливость скорости",
+    staminaMuscle = "Бедро",
+    runningspeedBenefit = "Максимальная скорость бега",
+    runningspeedMuscle = "Мускулатура",
+    strengthBenefit = "Сила удара",
+    strengthMuscle = "Плечо, Трапеция & Плечо",
+    attackspeedBenefit = "Скорость атаки",
+    attackspeedMuscle = "Предплечье",
+ 
+    -- Personal statistics
+ 
+    currentLevel = "Уровень %u",
+    xpPoint = "XP: %u",
+ 
+    -- Global statistics
+ 
+    globalStatistics = "Глобальная статистика",
+    onlineStatistics = "Статистика онлайн игроков",
+    updateSelection = "ОБНОВИТЬ (%u selected)",
+    resetPlayerData = "СБРОСИТЬ ДАННЫЕ ИГРОКА",
+    resetEntityData = "СБРОСИТЬ ЕНТИТИ НА КАРТЕ",
+    peopleSelected = "Люди выбраны: %s",
+    peopleSelectedTip = "Вы можете установить некоторые параметры обучения, которые будут применяться к выбранным вами людям.",
+ 
+ 
+    -- Training times part
+ 
+    trainingTimes = "ВРЕМЯ ТРЕНИРОВОК",
+    trainingAdv = "Иногда нужно отдыхать мышцам. Однако слишком долгий отдых, приведет к потере мышечной массы.",
+    muscleRest = "Мышечный отдых",
+    losingMuscle = "Потеря мыщц",
+    waitUntil = "Вы должны подождать",
+    secondsRemaining = "%d секунд осталось",
+    needTrainBeforeLosingMuscle = "Вы должны тренироваться перед:",
+    neverTrained = "Никогда не тренировался",
+    freeToWorkout = "Вы можете тренировать эту мышцу!",
+    currentlyLosing = "Вы теряете мышцы!",
+    yourChoice = "Твой выбор",
+    trainNow = "Начать тренировку",
+ 
+ 
+    -- XP/Level table
+ 
+    levels = "Уровни",
+    level = "Уровень",
+    xp = "XP",
+    percentage = "Процент",
+    undefined = "Неопределенный",
+    lastTraining = "Последняя тренировка",
+ 
+    -- Global trainings
+ 
+    trainingWillBegin = "Тренировка начнется через %u секунд",
+    trainingEndsIn = "Тренировка окончится через %u секунд",
+    currentlyUsingMachine = "Этот тренажёр кто-то сейчас использует ",
+    leftMachine = "Вы ушли с тренировки. Вы можете попробовать еще раз с этого момента!",
+    farFromMachine = "Вы слишком далеки от тренажёра, чтобы тренироваться!",
+ 
+    -- Admin data
+ 
+    setTo = "Установить %s до",
+    confirmationBox = "ПОДТВЕРЖДЕНИЕ",
+    areYouSure = "Вы уверены, что хотите это сделать? ?",
+ 
+    -- Weigh balance data
+ 
+ 
+    weighBalanceUse = "Нажмите USE, чтобы получить информацию",
+    weighBalanceCantSee = "Статистика конфиденциальна",
+    weighBalanceTipL1 = "ПОЖАЛУЙСТА, ШАГ",
+    weighBalanceTipL2 = "НА БАЛАНСЕ",
+    weighBalanceTipL3 = "ИМЕТЬ СТАТИСТИКУ",
+ 
+    -- Turnstile data
+ 
+    turnstileNeedBadge = "Вам нужно использовать свой абонимент, чтобы получить доступ сюда!",
+ 
+    -- Badge data
+ 
+    activebadge = "Активный абонимент",
+    neverSubscribed = "Никогда не оформлял",
+    badgeSubscription = "Оформление абонимента",
+    expirationDate = "Годен до",
+    expired = "Истекший",
+    previousSub = "Предыдущая подписка",
+ 
+    -- Stamina data
+ 
+    stamina = "Стамина",
+    runSpeed = "Скорость бега",
+    timeMaxSpeed = "Время максимальной скорости",
+ 
+    -- Running speed data
+ 
+    runningspeed = "Скорость бега",
+ 
+    -- Treadmill data
+ 
+    treadmillDrawLeft = "%u секунд прошло",
+    treadmillDrawSomeone = "Кто-то тренируется!",
+    treadmillDrawCanUse = "БЕСПЛАТНО",
+    treadmillCurSpeed = "Текущая скорость",
+    treadmillFrameTitle = "Беговая дорожка",
+    treadmillChooseExerciceTip1 = "Нажмите клавишу «вперед», чтобы увеличить скорость",
+    treadmillChooseExerciceTip2 = "Очки, которые вы зарабатываете, зависят от скорости, с которой вы бежите в конце.",
+    quickExerciceSpeed = "Быстрая скорость влият на скорость",
+    longExerciceStamina = "Медленная скорость влият на выносливость",
+    runningTime = "Продолжительность",
+    increaseSpeed = "Увеличить скорость",
+    decreaseSpeed = "Снизить скорость",
+    needFasterTreadmill = "Вам нужно быть быстрее при нажатии/отпускании клавиши «вперед»",
+ 
+    -- Strength data
+ 
+    strength = "Сила",
+ 
+    -- Dumbbell data
+ 
+    dumbbellDraw = "Гантель",
+    dumbbellFrameTitle = "ГАНТЕЛЯ",
+    dumbbellChooseExerciceTip1 = "Нажимайте нужные клавиши в нужное время",
+    dumbbellChooseExerciceTip2 = "Очки, которые вы зарабатываете, зависят от соотношения клавиш, нажатых в нужное время.",
+ 
+    -- Attack speed data
+ 
+    attackspeed = "Скорость атаки",
+ 
+    -- Punching ball data
+ 
+    punchingHitDamage = "%u попадание по точкам",
+    punchingFrameTitle = "БОКСЁРСКАЯ ГРУША",
+    punchingChooseExerciceTip1 = "Бейте по красным точкам",
+    punchingChooseExerciceTip2 = "Очки, которые вы зарабатываете, зависят от количества очков.",
+ 
+    -- Card reader data
+ 
+    cardReaderTitle = "ТЕРМИНАЛ",
+    approachBadge = "Вам нужно приблизить свой абонимент, чтобы использовать терминал!",
+    becomeOwner = "Вы стали владельцем терминала!",
+    someoneElseOwner = "Кто-то уже является владельцем этого терминала",
+ 
+    cardReaderOwnerAdd = "ДОБАВИТЬ",
+    cardReaderOwnerRemove = "УДАЛИТЬ",
+    cardReaderApply = "ПРИМЕНИТЬ ИЗМЕНЕНИЯ",
+    cardReaderBadgePrice = "Стоимость абонимента",
+    cardReaderPurchaseSub = "КУПИТЬ АБОНИМЕНТ",
+    cardReaderPurchaseSubTip1 = "абонимент позволяет использовать бейдж на турникетах",
+    cardReaderFullyRecharged = "Ваш абонимент уже полностью пополнен! Истекает: %s",
+ 
+    cardReaderGiveCredit = "ДАТЬ КРЕДИТ",
+    cardReaderGiveCreditTip1 = "Вы собираетесь отдать должное игроку перед вами",
+    cardReaderGiveCreditTip2 = "Это позволит ему получить доступ к турникету один раз.",
+    cardReaderGiveCreditBtn = "ДАТЬ КРЕДИТ",
+    cardReaderGiveAlreadyCredit = "Вы не можете отдать должное!",
+    cardReaderGiveAlreadySubscribed = "Вы не можете дать кредит тому, у кого уже есть действующий абонимент!",
+ 
+ 
+    cardReaderEditTerminal = "ИЗМЕНИТЬ ТЕРМИНАЛ",
+    cardReaderEditTerminalTip1 = "Вы можете изменить некоторые параметры терминала, такие как стоимость абонимента/совладелец",
+    cardReaderEditTerminalTip2 = "Совладельцы здесь, чтобы поделиться деньгами, которые вы получаете от абониментов",
+    cardReaderEditTerminalSetPrice = "Цена может быть установлена от %s до %s",
+ 
+ 
+    -- Notify player
+ 
+    alreadyTrained = "Вы недавно тренировали эти мышцы, пожалуйста, вернитесь через %s",
+    needMoreLevel = "Вы должны быть %u уровня, чтобы использовать это!",
+    tooEasy = "Этот тренажер слишком прост для твоего уровня!",
+    endTraining = "Тренировка закончилась",
+    xpAdded = "Вы получили %u очков!",
+    newLevel = "Вы сейчас на уровне %u!",
+    lossOfTraining = "Вы теряете часть мышц из-за потери тренировок: %s",
+    sportBadgeVerified = "Ваш абонимент подтверждён",
+    sportBadgeInvalid = "Ваш абонимент недействительный",
+    subDataUpdated = "Вы обновили данные абонимента!",
+    subPurchased = "Вы получили %s, потому что %s приобрел абонимент!",
+    subRenewed = "Вы продлили подписку!",
+    subNotEnoughMoney = "У вас недостаточно денег для покупки абонимента!",
+    creditGiven = "Вы дали кредит!",
+    creditReceived = "Вы получили кредит!",
+    entitiesUpdated = "Данные тренажера обновлены!",
+    entitiesRemoved = "Ентити были удалены, а данные стерты!",
+    playerDataRemoved = "База данных игроков удалена.!",
+    playerDataUpdated = "Данные обновлены с вашим значением!",
+ 
+}
