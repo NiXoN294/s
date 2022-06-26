@@ -218,7 +218,7 @@ Diablos.TS.Languages.AvailableLanguages["russian"] = {
     creditReceived = "Вы получили кредит!",
     entitiesUpdated = "Данные тренажера обновлены!",
     entitiesRemoved = "Ентити были удалены, а данные стерты!",
-    playerDataRemoved = "База данных игроков удалена.!",
+    playerDataRemoved = "База данных игроков удалена!",
     playerDataUpdated = "Данные обновлены с вашим значением!",
  
 }
